@@ -1,10 +1,10 @@
 ### Snabb
 
-Snabb is a static site generator created using Nodejs. Using Snabb we can generate simple website with markdons.
+Snabb is a static site generator created using Nodejs. Using Snabb we can generate simple website with markdowns.
 
 ## 🚀 Installation
 
-OPTION 1:
+OPTION 1
 
 ```shell
 npm i -g snabb
@@ -12,13 +12,13 @@ npm i -g snabb
 
 Installing dependency using -g will install snabb globally.
 
-OPTION 2:
+OPTION 2
 
 Directly get the latest version of the Snabb from GitHub, install the dependencies and link it to Node Package Manager
 
 ## 📈 Usage
 
-STEP 1 - Create Project
+STEP 1 - CREATE PROJECT
 
 ```shell
 snabb create
@@ -26,7 +26,7 @@ snabb create
 
 This command will help to create a new project based on the templete you choose (eg. blog or portfolio as of now) also other configuration related questions will be asked.
 
-STEP 2 - Ta-da
+STEP 2 - START PROJECT
 
 ```shell
 snabb start
